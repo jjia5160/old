@@ -545,7 +545,6 @@ a {
 }
 
 .emaillist h1 {
-    margin-bottom: 40px;
     margin-top: 10px;
     color: #fff;
     font-size: 55px;
@@ -601,6 +600,10 @@ a {
 
     .buttonshow {
         height: 60px;
+    }
+    
+    .box {
+        display: none;
     }
 }
 
